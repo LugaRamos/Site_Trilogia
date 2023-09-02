@@ -1,0 +1,90 @@
+nav ul {
+  list-style: none;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
+
+body{
+  background-image: url(/img/fundo.jpg);
+}
+
+.card_banner{
+  padding: auto;
+}
+
+.card_banner img {
+  max-width: 90%; /* Limita a largura da imagem a 70% do contêiner pai */
+  height: auto; /* Mantém a proporção da imagem */
+  display: block; /* Remove espaço extra abaixo da imagem */
+  margin: 0 auto; /* Centraliza a imagem horizontalmente */
+  opacity: 190%; /* Define a transparência da imagem para 80% (0.8) */
+  border-radius: 20px;
+}
+.card_temp1{
+  text-align: center;
+  padding: 20px;
+}
+
+.card_temp2{
+  text-align: center;
+  padding: 20px;
+}
+
+.card_temp3{
+  text-align: center;
+  padding: 20px;
+}
+
+#capa1{
+  height: 300px;
+  border-radius: 20px;
+}
+
+#capa2{
+  height: 300px;
+  border-radius: 20px;
+}
+
+#capa3{
+  height: 300px;
+  border-radius: 20px;
+}
+
+.card_bord_tem1{
+  background-color: rgb(32, 31, 31);
+  border-radius: 10px;
+  opacity: 95%;
+}
+
+.card_bord_tem2{
+  background-color: rgb(32, 31, 31);
+  border-radius: 10px;
+  opacity: 95%;
+}
+
+.card_bord_tem3{
+  background-color: rgb(32, 31, 31);
+  border-radius: 10px;
+  opacity: 95%;
+  
+}
+
+.video_tem1{
+  border-radius: 15px; /* Cor e largura da borda */
+}
+
+.video_tem2{
+  border-radius: 15px; /* Cor e largura da borda */
+}
+
+.video_tem3{
+  border-radius: 15px; /* Cor e largura da borda */
+}
